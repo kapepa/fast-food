@@ -38,3 +38,5 @@ nativewind-env.d.ts
 *.tsbuildinfo
 
 app-example
+
+.env.local
